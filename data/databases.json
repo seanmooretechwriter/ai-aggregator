@@ -1,0 +1,12 @@
+[
+  { "title": "Chroma", "url": "https://www.trychroma.com/", "createDate": "2024-07-26T12:45:00Z", "category": "Vector Database" },
+  { "title": "Dgraph", "url": "https://dgraph.io/", "createDate": "2024-07-26T12:45:00Z", "category": "Graph Database" },
+  { "title": "LanceDB", "url": "https://lancedb.com/", "createDate": "2024-07-26T12:45:00Z", "category": "Vector Database" },
+  { "title": "Milvus", "url": "https://milvus.io/", "createDate": "2024-07-26T12:45:00Z", "category": "Vector Database" },
+  { "title": "Neo4j", "url": "https://neo4j.com/", "createDate": "2024-07-26T12:45:00Z", "category": "Graph Database" },
+  { "title": "Pinecone", "url": "https://www.pinecone.io/", "createDate": "2024-07-26T12:45:00Z", "category": "Vector Database" },
+  { "title": "Qdrant", "url": "https://qdrant.tech/", "createDate": "2024-07-26T12:45:00Z", "category": "Vector Database" },
+  { "title": "Redis", "url": "https://redis.io/", "createDate": "2024-07-26T12:45:00Z", "category": "In-Memory Database" },
+  { "title": "SingleStore", "url": "https://www.singlestore.com/", "createDate": "2024-07-26T12:45:00Z", "category": "Vector Database" },
+  { "title": "Weaviate", "url": "https://weaviate.io/", "createDate": "2024-07-26T12:45:00Z", "category": "Vector Database" }
+] 

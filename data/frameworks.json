@@ -1,0 +1,11 @@
+[
+  { "title": "DeepSpeed", "url": "https://www.deepspeed.ai/", "createDate": "2024-07-26T12:40:00Z", "category": "Framework" },
+  { "title": "Gemma", "url": "https://ai.google.dev/gemma/", "createDate": "2024-07-26T12:40:00Z", "category": "Framework" },
+  { "title": "Hugging Face", "url": "https://huggingface.co/", "createDate": "2024-07-26T12:40:00Z", "category": "Framework/Platform" },
+  { "title": "LangChain", "url": "https://www.langchain.com/", "createDate": "2024-07-26T12:40:00Z", "category": "Framework" },
+  { "title": "Ollama", "url": "https://ollama.com/", "createDate": "2024-07-26T12:40:00Z", "category": "Framework" },
+  { "title": "PyTorch", "url": "https://pytorch.org/", "createDate": "2024-07-26T12:40:00Z", "category": "Framework" },
+  { "title": "Ray", "url": "https://www.ray.io/", "createDate": "2024-07-26T12:40:00Z", "category": "Framework" },
+  { "title": "TensorFlow", "url": "https://www.tensorflow.org/", "createDate": "2024-07-26T12:40:00Z", "category": "Framework" },
+  { "title": "vLLM", "url": "https://vllm.ai/", "createDate": "2024-07-26T12:40:00Z", "category": "Framework" }
+] 

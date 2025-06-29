@@ -1,13 +1,13 @@
 [
   {
-    "title": "Alexa",
-    "vendor": "Amazon",
-    "url": "https://alexa.amazon.com/"
-  },
-  {
     "title": "ChatGPT",
     "vendor": "OpenAI",
     "url": "https://chat.openai.com/"
+  },
+  {
+    "title": "Gemini",
+    "vendor": "Google",
+    "url": "https://gemini.google.com/"
   },
   {
     "title": "Claude",
@@ -20,9 +20,9 @@
     "url": "https://copilot.microsoft.com/"
   },
   {
-    "title": "Gemini",
-    "vendor": "Google",
-    "url": "https://gemini.google.com/"
+    "title": "Kuki (Mitsuku)",
+    "vendor": "Pandorabots",
+    "url": "https://www.kuki.ai/"
   },
   {
     "title": "Google Assistant",
@@ -30,23 +30,23 @@
     "url": "https://assistant.google.com/"
   },
   {
-    "title": "Kuki (Mitsuku)",
-    "vendor": "Pandorabots",
-    "url": "https://www.kuki.ai/"
-  },
-  {
-    "title": "Replika",
-    "vendor": "Luka, Inc.",
-    "url": "https://replika.com/"
-  },
-  {
     "title": "Siri",
     "vendor": "Apple",
     "url": "https://www.apple.com/siri/"
   },
   {
+    "title": "Alexa",
+    "vendor": "Amazon",
+    "url": "https://alexa.amazon.com/"
+  },
+  {
     "title": "Xiaoice",
     "vendor": "Microsoft (China)",
     "url": "https://www.microsoft.com/en-us/ai/ai-lab-xiaoice"
+  },
+  {
+    "title": "Replika",
+    "vendor": "Luka, Inc.",
+    "url": "https://replika.com/"
   }
 ] 

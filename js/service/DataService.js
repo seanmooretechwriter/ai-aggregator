@@ -1,9 +1,9 @@
 const TITLES = {
   tools: 'AI Coding Tools',
-  blogs: 'AI Blogs & Newsletters',
   learn: 'AI Learning Resources',
-  models: 'AI Models & Frameworks',
-  vendors: 'AI Vendors & Platforms',
+  models: 'AI Models',
+  frameworks: 'AI & LLM Frameworks',
+  databases: 'AI Databases & Storage',
   chatbots: 'Popular AI Chatbots'
 }
 

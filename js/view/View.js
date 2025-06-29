@@ -1,9 +1,9 @@
 const TYPES = [
   { key: 'tools', label: 'Tools' },
-  { key: 'blogs', label: 'Blogs' },
   { key: 'learn', label: 'Learn' },
   { key: 'models', label: 'Models' },
-  { key: 'vendors', label: 'Vendors' },
+  { key: 'frameworks', label: 'Frameworks' },
+  { key: 'databases', label: 'DBs' },
   { key: 'chatbots', label: 'Chatbots' }
 ]
 

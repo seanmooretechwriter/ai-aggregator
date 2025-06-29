@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "vite",
     "build": "vite build",
+    "postbuild": "cp -R data dist/",
     "preview": "vite preview",
     "test": "jest"
   },

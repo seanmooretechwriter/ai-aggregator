@@ -1,0 +1,8 @@
+[
+  { "title": "GitHub Copilot", "url": "https://github.com/features/copilot", "createDate": "2024-07-26T12:00:00Z", "category": "AI Coding Assistant" },
+  { "title": "Tabnine", "url": "https://www.tabnine.com/", "createDate": "2024-07-26T12:01:00Z", "category": "AI Coding Assistant" },
+  { "title": "Amazon CodeWhisperer", "url": "https://aws.amazon.com/codewhisperer/", "createDate": "2024-07-26T12:02:00Z", "category": "AI Coding Assistant" },
+  { "title": "Sourcegraph Cody", "url": "https://sourcegraph.com/cody", "createDate": "2024-07-26T12:03:00Z", "category": "AI Coding Assistant" },
+  { "title": "Windsurf (formerly Codeium)", "url": "https://windsurf.com/", "createDate": "2024-07-26T12:05:00Z", "category": "AI Code Editor" },
+  { "title": "Cursor", "url": "https://cursor.sh/", "createDate": "2024-07-26T12:06:00Z", "category": "AI Code Editor" }
+] 

@@ -1,7 +1,0 @@
-[
-  { "title": "The AI Engineer Newsletter", "url": "https://www.theaiengineer.com/", "createDate": "2024-07-26T12:07:00Z", "category": "Newsletter" },
-  { "title": "Google AI Blog", "url": "https://ai.googleblog.com/", "createDate": "2024-07-26T12:12:00Z", "category": "Blog" },
-  { "title": "OpenAI Blog", "url": "https://openai.com/blog", "createDate": "2024-07-26T12:13:00Z", "category": "Blog" },
-  { "title": "Andrej Karpathy's Blog", "url": "https://karpathy.ai/writing.html", "createDate": "2024-07-26T12:15:00Z", "category": "Blog" },
-  { "title": "ML@B - Machine Learning at Berkeley", "url": "https://ml.berkeley.edu/blog/", "createDate": "2024-07-26T12:16:00Z", "category": "Blog" }
-] 
