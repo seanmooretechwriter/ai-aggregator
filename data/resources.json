@@ -1,0 +1,122 @@
+[
+  {
+    "title": "GitHub Copilot",
+    "url": "https://github.com/features/copilot",
+    "createDate": "2024-07-26T12:00:00Z",
+    "category": "AI Coding Assistant"
+  },
+  {
+    "title": "Tabnine",
+    "url": "https://www.tabnine.com/",
+    "createDate": "2024-07-26T12:01:00Z",
+    "category": "AI Coding Assistant"
+  },
+  {
+    "title": "Amazon CodeWhisperer",
+    "url": "https://aws.amazon.com/codewhisperer/",
+    "createDate": "2024-07-26T12:02:00Z",
+    "category": "AI Coding Assistant"
+  },
+  {
+    "title": "Sourcegraph Cody",
+    "url": "https://sourcegraph.com/cody",
+    "createDate": "2024-07-26T12:03:00Z",
+    "category": "AI Coding Assistant"
+  },
+  {
+    "title": "Replit",
+    "url": "https://replit.com/",
+    "createDate": "2024-07-26T12:04:00Z",
+    "category": "Online IDE"
+  },
+  {
+    "title": "Windsurf (formerly Codeium)",
+    "url": "https://windsurf.com/",
+    "createDate": "2024-07-26T12:05:00Z",
+    "category": "AI Code Editor"
+  },
+  {
+    "title": "Cursor",
+    "url": "https://cursor.sh/",
+    "createDate": "2024-07-26T12:06:00Z",
+    "category": "AI Code Editor"
+  },
+  {
+    "title": "The AI Engineer Newsletter",
+    "url": "https://www.theaiengineer.com/",
+    "createDate": "2024-07-26T12:07:00Z",
+    "category": "Newsletter"
+  },
+  {
+    "title": "Hugging Face",
+    "url": "https://huggingface.co/",
+    "createDate": "2024-07-26T12:08:00Z",
+    "category": "Platform"
+  },
+  {
+    "title": "DeepLearning.AI",
+    "url": "https://www.deeplearning.ai/",
+    "createDate": "2024-07-26T12:09:00Z",
+    "category": "Education"
+  },
+  {
+    "title": "Fast.ai",
+    "url": "https://www.fast.ai/",
+    "createDate": "2024-07-26T12:10:00Z",
+    "category": "Education"
+  },
+  {
+    "title": "Papers with Code",
+    "url": "https://paperswithcode.com/",
+    "createDate": "2024-07-26T12:11:00Z",
+    "category": "Research"
+  },
+  {
+    "title": "Google AI Blog",
+    "url": "https://ai.googleblog.com/",
+    "createDate": "2024-07-26T12:12:00Z",
+    "category": "Blog"
+  },
+  {
+    "title": "OpenAI Blog",
+    "url": "https://openai.com/blog",
+    "createDate": "2024-07-26T12:13:00Z",
+    "category": "Blog"
+  },
+  {
+    "title": "Distill",
+    "url": "https://distill.pub/",
+    "createDate": "2024-07-26T12:14:00Z",
+    "category": "Research"
+  },
+  {
+    "title": "Andrej Karpathy's Blog",
+    "url": "https://karpathy.ai/writing.html",
+    "createDate": "2024-07-26T12:15:00Z",
+    "category": "Blog"
+  },
+  {
+    "title": "ML@B - Machine Learning at Berkeley",
+    "url": "https://ml.berkeley.edu/blog/",
+    "createDate": "2024-07-26T12:16:00Z",
+    "category": "Blog"
+  },
+  {
+    "title": "Kaggle",
+    "url": "https://www.kaggle.com/",
+    "createDate": "2024-07-26T12:17:00Z",
+    "category": "Platform"
+  },
+  {
+    "title": "TensorFlow",
+    "url": "https://www.tensorflow.org/",
+    "createDate": "2024-07-26T12:18:00Z",
+    "category": "Framework"
+  },
+  {
+    "title": "PyTorch",
+    "url": "https://pytorch.org/",
+    "createDate": "2024-07-26T12:19:00Z",
+    "category": "Framework"
+  }
+] 
