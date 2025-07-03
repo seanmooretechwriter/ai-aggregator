@@ -1,5 +1,14 @@
 [
-  { "title": "China's MCP adoption: AI assistants that actually do things", "url": "https://www.artificialintelligence-news.com/news/chinas-mcp-adoption-ai-assistants-that-actually-do-things/", "createDate": "2025-04-23T00:00:00Z", "category": "MCP/AI Agents" },
-  { "title": "GitHub's MCP Server: You Can Now Talk to Your Repos", "url": "https://dev.to/fernandezbaptiste/githubs-mcp-server-you-can-now-talk-to-your-repos-2ho5", "createDate": "2025-05-22T00:00:00Z", "category": "Agentic Coding" },
-  { "title": "MCP Will Be Built Into Windows To Make an 'Agentic OS' - Bringing Security Concerns", "url": "https://tech.slashdot.org/story/25/05/24/1740221/mcp-will-be-built-into-windows-to-make-an-agentic-os---bringing-security-concerns", "createDate": "2025-05-24T00:00:00Z", "category": "MCP/Agentic OS" }
+  { "title": "AI Coding Agents: A Hands-On Review (YouTube)", "url": "https://m.youtube.com/watch?v=YJ3Z9XhlF5w&pp=0gcJCfwAo7VqN5tD", "createDate": "2024-06-29T00:00:00Z", "category": "Video Review" },
+  { "title": "Best AI for Coding, Ranked", "url": "https://www.slashgear.com/1894509/best-ai-for-coding-ranked/", "createDate": "2024-06-28T00:00:00Z", "category": "Roundup" },
+  { "title": "Claudia: A New AI Coding Agent", "url": "https://news.itsfoss.com/claudia/", "createDate": "2024-06-25T00:00:00Z", "category": "Product Launch" },
+  { "title": "DocuSign Sends Legal Notice to Vibe Coder", "url": "https://analyticsindiamag.com/ai-news-updates/vibe-coder-gets-legal-notice-from-docusign/", "createDate": "2024-06-18T00:00:00Z", "category": "Legal" },
+  { "title": "Gemini CLI and Other Top Coding Agents: A Test", "url": "https://dev.to/therealmrmumba/i-tested-gemini-cli-and-other-top-coding-agents-heres-what-i-found-om1", "createDate": "2024-06-30T00:00:00Z", "category": "Review" },
+  { "title": "How AI Is Reimagining Coding: Agentic Development Environments", "url": "https://www.warp.dev/blog/reimagining-coding-agentic-development-environment", "createDate": "2024-06-19T00:00:00Z", "category": "Agentic Coding" },
+  { "title": "I Tried Claude AI App Builder", "url": "https://lifehacker.com/tech/i-tried-claude-ai-app-builder", "createDate": "2024-06-27T00:00:00Z", "category": "Product Review" },
+  { "title": "I've Become an AI Vibecoding Convert", "url": "https://www.fastcompany.com/91356253/ive-become-an-ai-vibecoding-convert", "createDate": "2024-06-21T00:00:00Z", "category": "Opinion" },
+  { "title": "Productivity Gains from Using AI (Charted)", "url": "https://www.visualcapitalist.com/charted-productivity-gains-from-using-ai/", "createDate": "2024-06-24T00:00:00Z", "category": "Productivity" },
+  { "title": "Sakana AI's DGM: Next-Gen Model", "url": "https://sakana.ai/dgm/", "createDate": "2024-06-26T00:00:00Z", "category": "Model Release" },
+  { "title": "Success as a Software Developer: Windsurf's Perspective", "url": "https://www.businessinsider.com/windsurf-head-product-engineering-what-makes-successful-sofware-developer-2025-6", "createDate": "2025-06-18T00:00:00Z", "category": "Interview" },
+  { "title": "The Future of Agentic Workflows in GitHub Copilot", "url": "https://github.blog/news-insights/product-news/from-pair-to-peer-programmer-our-vision-for-agentic-workflows-in-github-copilot/", "createDate": "2024-06-20T00:00:00Z", "category": "Agentic Coding" }
 ] 
