@@ -147,4 +147,21 @@ li span {
     margin-right: auto;
     padding-left: 0;
 
+}
+
+@media (max-width: 600px) {
+  .navbar {
+    flex-wrap: wrap;
+    padding: 6px 0 4px 0;
+    margin-left: -10px;
+    margin-right: -10px;
+  }
+  .nav-btn {
+    font-size: 0.85rem;
+    padding: 6px 10px;
+    margin: -6px 0 -4px 0;
+  }
+  .nav-btn.active, .nav-btn:hover {
+    padding: 12px 10px 14px 10px;
+  }
 } 
