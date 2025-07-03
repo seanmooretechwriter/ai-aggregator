@@ -13,5 +13,8 @@
   { "title": "Tabnine", "url": "https://www.tabnine.com/", "createDate": "2024-07-26T12:01:00Z", "category": "AI Coding Assistant" },
   { "title": "Warp", "url": "https://www.warp.dev/", "createDate": "2024-07-26T12:20:00Z", "category": "Agentic Development Environment" },
   { "title": "Windsurf (formerly Codeium)", "url": "https://windsurf.com/", "createDate": "2024-07-26T12:05:00Z", "category": "AI Code Editor" },
-  { "title": "Prompt Grader", "url": "https://www.grademyprompt.com/", "createDate": "2024-07-26T00:00:00Z", "category": "Prompt Engineering Tool" }
+  { "title": "Prompt Grader", "url": "https://www.grademyprompt.com/", "createDate": "2024-07-26T00:00:00Z", "category": "Prompt Engineering Tool" },
+  { "title": "Jobright", "url": "https://jobright.ai/", "createDate": "2024-07-26T00:00:00Z", "category": "AI Job Search Tool" },
+  { "title": "Omi", "url": "https://omi.me/", "createDate": "2024-07-26T00:00:00Z", "category": "AI Presentation Tool" },
+  { "title": "Gamma", "url": "https://gamma.app/", "createDate": "2024-07-26T00:00:00Z", "category": "AI Presentation Tool" }
 ] 
