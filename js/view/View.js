@@ -39,21 +39,59 @@ export class View {
       </div>
     `
 
+    let resourcesHtml = ''
+    if (currentType === 'news') {
+      // Group news by date (MM/DD/YY)
+      const grouped = {}
+      resources.forEach(resource => {
+        const d = new Date(resource.createDate)
+        const dateStr = d.toLocaleDateString('en-US', {
+          year: '2-digit',
+          month: '2-digit',
+          day: '2-digit'
+        })
+        if (!grouped[dateStr]) grouped[dateStr] = []
+        grouped[dateStr].push(resource)
+      })
+      resourcesHtml = Object.entries(grouped)
+        .sort(
+          (a, b) => new Date(b[1][0].createDate) - new Date(a[1][0].createDate)
+        )
+        .map(
+          ([date, items]) => `
+          <li class="news-date-heading" style="margin-top:18px; margin-bottom:4px; color:#bdbdbd; font-size:0.98rem; font-style:italic; list-style:none;">${date}</li>
+          ${items
+            .map(
+              resource => `
+                <li>
+                  <a href="${resource.url}" target="_blank">${resource.title}</a>
+                  <span>(${resource.category})</span>
+                </li>
+              `
+            )
+            .join('')}
+        `
+        )
+        .join('')
+    } else {
+      resourcesHtml = resources
+        .map(
+          resource => `
+            <li>
+              <a href="${resource.url}" target="_blank">${resource.title}</a>
+              <span>(${
+                currentType === 'chatbots' ? resource.vendor : resource.category
+              })</span>
+            </li>
+          `
+        )
+        .join('')
+    }
+
     this.appContainer.innerHTML = `
       ${selectHtml}
       <h1>${title}</h1>
-      <ul>${resources
-        .map(
-          resource => `
-        <li>
-          <a href="${resource.url}" target="_blank">${resource.title}</a>
-          <span>(${
-            currentType === 'chatbots' ? resource.vendor : resource.category
-          })</span>
-        </li>
-      `
-        )
-        .join('')}</ul>
+      <ul>${resourcesHtml}</ul>
     `
 
     // Add event listener for select dropdown

@@ -1,7 +1,5 @@
 [
-  { "title": "AI Masters Community with Ed", "url": "https://www.skool.com/ai-masters-community/about", "createDate": "2024-07-26T12:23:00Z", "category": "Community" },
   { "title": "DeepLearning.AI", "url": "https://www.deeplearning.ai/", "createDate": "2024-07-26T12:09:00Z", "category": "Education" },
   { "title": "Fast.ai", "url": "https://www.fast.ai/", "createDate": "2024-07-26T12:10:00Z", "category": "Education" },
-  { "title": "Principled AI Coding", "url": "https://agenticengineer.com/principled-ai-coding", "createDate": "2024-07-26T12:22:00Z", "category": "Course" },
-  { "title": "Replit", "url": "https://replit.com/", "createDate": "2024-07-26T12:04:00Z", "category": "Online IDE" }
+  { "title": "Principled AI Coding", "url": "https://agenticengineer.com/principled-ai-coding", "createDate": "2024-07-26T12:22:00Z", "category": "Course" }
 ] 
