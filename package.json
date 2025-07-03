@@ -8,7 +8,8 @@
     "build": "vite build",
     "postbuild": "cp -R data dist/",
     "preview": "vite preview",
-    "test": "jest"
+    "test": "jest",
+    "deploy": "npm run build && surge ./dist ai-aggregator.surge.sh"
   },
   "keywords": [],
   "author": "",

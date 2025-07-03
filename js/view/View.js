@@ -24,45 +24,47 @@ export class View {
     const resources = this.model.getResources()
     const currentType = this.model.getType()
 
-    const navbarHtml = `
-      <nav class="navbar">
-        ${TYPES.map(
-          type => `
-            <button class="nav-btn${
-              type.key === currentType ? ' active' : ''
-            }" data-type="${type.key}">${type.label}</button>
-          `
-        ).join('')}
-      </nav>
+    // Only render the select dropdown for navigation
+    const selectHtml = `
+      <div class="nav-select-row">
+        <label for="nav-select" class="nav-label">Sections:</label>
+        <select id="nav-select">
+          ${TYPES.map(
+            type =>
+              `<option value="${type.key}"${
+                type.key === currentType ? ' selected' : ''
+              }>${type.label}</option>`
+          ).join('')}
+        </select>
+      </div>
     `
-
-    const resourcesHtml = resources
-      .map(
-        resource => `
-      <li>
-        <a href="${resource.url}" target="_blank">${resource.title}</a>
-        <span>(${
-          currentType === 'chatbots' ? resource.vendor : resource.category
-        })</span>
-      </li>
-    `
-      )
-      .join('')
 
     this.appContainer.innerHTML = `
-      ${navbarHtml}
+      ${selectHtml}
       <h1>${title}</h1>
-      <ul>${resourcesHtml}</ul>
+      <ul>${resources
+        .map(
+          resource => `
+        <li>
+          <a href="${resource.url}" target="_blank">${resource.title}</a>
+          <span>(${
+            currentType === 'chatbots' ? resource.vendor : resource.category
+          })</span>
+        </li>
+      `
+        )
+        .join('')}</ul>
     `
 
-    // Add event listeners for navbar buttons
-    this.appContainer.querySelectorAll('.nav-btn').forEach(btn => {
-      btn.onclick = e => {
-        const type = btn.getAttribute('data-type')
+    // Add event listener for select dropdown
+    const navSelect = this.appContainer.querySelector('#nav-select')
+    if (navSelect) {
+      navSelect.onchange = e => {
+        const type = navSelect.value
         if (type && type !== currentType && this.onTypeChange) {
           this.onTypeChange(type)
         }
       }
-    })
+    }
   }
 }
