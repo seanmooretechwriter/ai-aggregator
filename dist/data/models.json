@@ -1,7 +1,11 @@
 [
-  { "title": "Hugging Face", "url": "https://huggingface.co/", "createDate": "2024-07-26T12:08:00Z", "category": "Platform" },
-  { "title": "Papers with Code", "url": "https://paperswithcode.com/", "createDate": "2024-07-26T12:11:00Z", "category": "Research" },
-  { "title": "Distill", "url": "https://distill.pub/", "createDate": "2024-07-26T12:14:00Z", "category": "Research" },
-  { "title": "TensorFlow", "url": "https://www.tensorflow.org/", "createDate": "2024-07-26T12:18:00Z", "category": "Framework" },
-  { "title": "PyTorch", "url": "https://pytorch.org/", "createDate": "2024-07-26T12:19:00Z", "category": "Framework" }
+  { "title": "Claude 3.5 Sonnet", "url": "https://www.anthropic.com/claude", "createDate": "2024-07-26T12:35:00Z", "category": "LLM" },
+  { "title": "Claude 3.7 Sonnet", "url": "https://www.anthropic.com/claude", "createDate": "2024-07-26T12:35:00Z", "category": "LLM" },
+  { "title": "Gemini 2.5 Pro", "url": "https://deepmind.google/technologies/gemini/", "createDate": "2024-07-26T12:35:00Z", "category": "LLM" },
+  { "title": "GPT-4.1", "url": "https://platform.openai.com/docs/models/gpt-4-1", "createDate": "2024-07-26T12:35:00Z", "category": "LLM" },
+  { "title": "GPT-4.5", "url": "https://platform.openai.com/docs/models/gpt-4-5", "createDate": "2024-07-26T12:35:00Z", "category": "LLM" },
+  { "title": "Llama 4 Maverick", "url": "https://llama.meta.com/", "createDate": "2024-07-26T12:35:00Z", "category": "LLM" },
+  { "title": "Llama 4 Scout", "url": "https://llama.meta.com/", "createDate": "2024-07-26T12:35:00Z", "category": "LLM" },
+  { "title": "Mistral Large", "url": "https://mistral.ai/news/mistral-large/", "createDate": "2024-07-26T12:35:00Z", "category": "LLM" },
+  { "title": "Qwen3", "url": "https://huggingface.co/Qwen", "createDate": "2024-07-26T12:35:00Z", "category": "LLM" }
 ] 

@@ -34,6 +34,7 @@ describe('View', () => {
           category: 'Test'
         }
       ],
+      getType: () => 'tools',
       subscribe: jest.fn()
     }
 
@@ -46,5 +47,8 @@ describe('View', () => {
     expect(appContainer.querySelector('li').textContent).toContain(
       'Test Resource'
     )
+    const activeBtn = appContainer.querySelector('.nav-btn.active')
+    expect(activeBtn).not.toBeNull()
+    expect(activeBtn.textContent).toBe('Tools')
   })
 })
