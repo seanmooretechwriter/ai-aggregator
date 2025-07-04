@@ -3,5 +3,6 @@
   { "title": "Claude Code Best Practices", "url": "https://www.anthropic.com/engineering/claude-code-best-practices", "createDate": "2024-07-01T00:00:00Z", "category": "Best Practices" },
   { "title": "Desktop Extensions for Claude", "url": "https://www.anthropic.com/engineering/desktop-extensions", "createDate": "2024-07-01T00:00:00Z", "category": "Engineering" },
   { "title": "The Claude Code Complete Guide (Learn)", "url": "https://natesnewsletter.substack.com/p/the-claude-code-complete-guide-learn", "createDate": "2024-07-01T00:00:00Z", "category": "Guide" },
-  { "title": "ChatGPT Prompt Engineering for Developers", "url": "https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/", "createDate": "2024-07-26T00:00:00Z", "category": "Course" }
+  { "title": "ChatGPT Prompt Engineering for Developers", "url": "https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/", "createDate": "2024-07-26T00:00:00Z", "category": "Course" },
+  { "title": "ML School: Build AI & Machine Learning Systems That Don't Suck", "url": "https://www.ml.school/", "createDate": "2024-07-26T00:00:00Z", "category": "Course" }
 ] 
