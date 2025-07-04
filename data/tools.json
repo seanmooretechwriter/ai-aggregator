@@ -16,5 +16,6 @@
   { "title": "Prompt Grader", "url": "https://www.grademyprompt.com/", "createDate": "2024-07-26T00:00:00Z", "category": "Prompt Engineering Tool" },
   { "title": "Jobright", "url": "https://jobright.ai/", "createDate": "2024-07-26T00:00:00Z", "category": "AI Job Search Tool" },
   { "title": "Omi", "url": "https://omi.me/", "createDate": "2024-07-26T00:00:00Z", "category": "AI Presentation Tool" },
-  { "title": "Gamma", "url": "https://gamma.app/", "createDate": "2024-07-26T00:00:00Z", "category": "AI Presentation Tool" }
+  { "title": "Gamma", "url": "https://gamma.app/", "createDate": "2024-07-26T00:00:00Z", "category": "AI Presentation Tool" },
+  { "title": "Rork", "url": "https://rork.com/", "createDate": "2024-07-26T00:00:00Z", "category": "AI App Builder" }
 ] 

@@ -139,6 +139,20 @@ li span {
     font-style: italic;
 }
 
+#last-updated {
+    font-size: 0.92rem;
+    color: #8bc34a;
+    margin: 0 0 18px 0;
+    max-width: 640px;
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    font-style: italic;
+    letter-spacing: 0.01em;
+    font-weight: 400;
+}
+
 @media (max-width: 700px) {
     #app {
         padding-left: 8px;
@@ -163,7 +177,6 @@ li span {
 
 }
 
-/* Responsive navbar: show/hide desktop/mobile nav */
 .nav-mobile {
     display: none;
 }
@@ -200,7 +213,6 @@ li span {
     }
 }
 
-/* Desktop: reduce nav-btn font size and padding, prevent word breaks */
 @media (min-width: 601px) {
     .nav-btn {
         font-size: 1rem;
@@ -210,7 +222,6 @@ li span {
     }
 }
 
-/* Style the select control in nav-mobile */
 .nav-mobile select {
     background: #232526;
     color: #ffb300;
@@ -228,7 +239,6 @@ li span {
     box-shadow: 0 0 0 2px #ffb30033;
 }
 
-/* Remove navbar/tab styles and style select row */
 .nav-select-row {
     display: flex;
     align-items: center;
