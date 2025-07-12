@@ -27,6 +27,7 @@
   { "title": "Replit", "url": "https://replit.com/", "createDate": "2024-07-26T12:04:00Z", "category": "Online IDE" },
   { "title": "Rivet", "url": "https://www.rivetai.com/", "createDate": "2024-07-12T00:00:00Z", "category": "GUI LLM Workflow Builder" },
   { "title": "Rork", "url": "https://rork.com/", "createDate": "2024-07-26T00:00:00Z", "category": "AI App Builder" },
+  { "title": "Sentry", "url": "https://sentry.io/welcome/", "createDate": "2024-07-26T00:00:00Z", "category": "Application Monitoring Platform" },
   { "title": "Sourcegraph Cody", "url": "https://sourcegraph.com/cody", "createDate": "2024-07-26T12:03:00Z", "category": "AI Coding Assistant" },
   { "title": "Tabnine", "url": "https://www.tabnine.com/", "createDate": "2024-07-26T12:01:00Z", "category": "AI Coding Assistant" },
   { "title": "Tolans", "url": "https://www.tolans.com/", "createDate": "2024-07-26T00:00:00Z", "category": "AI Agent Platform" },
