@@ -1,6 +1,6 @@
 const TYPES = [
-  { key: 'tools', label: 'Tools' },
   { key: 'news', label: 'News' },
+  { key: 'tools', label: 'Tools' },
   { key: 'learn', label: 'Learn' },
   { key: 'community', label: 'Community' },
   { key: 'models', label: 'Models' },

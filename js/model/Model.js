@@ -6,7 +6,7 @@ export class Model extends Observer {
     super()
     this.dataService = dataService
     this.data = { title: '', resources: [] }
-    this.type = 'tools'
+    this.type = 'news'
   }
 
   async loadData (type = this.type) {
