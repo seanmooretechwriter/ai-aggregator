@@ -17,5 +17,19 @@
   { "title": "Jobright", "url": "https://jobright.ai/", "createDate": "2024-07-26T00:00:00Z", "category": "AI Job Search Tool" },
   { "title": "Omi", "url": "https://omi.me/", "createDate": "2024-07-26T00:00:00Z", "category": "AI Presentation Tool" },
   { "title": "Gamma", "url": "https://gamma.app/", "createDate": "2024-07-26T00:00:00Z", "category": "AI Presentation Tool" },
-  { "title": "Rork", "url": "https://rork.com/", "createDate": "2024-07-26T00:00:00Z", "category": "AI App Builder" }
+  { "title": "Rork", "url": "https://rork.com/", "createDate": "2024-07-26T00:00:00Z", "category": "AI App Builder" },
+  { "title": "Plaud Notepin", "url": "https://www.plaud.ai/products/plaud-notepin", "createDate": "2024-07-26T00:00:00Z", "category": "AI Note-Taking Tool" },
+  { "title": "Google AI Edge", "url": "https://ai.google.dev/edge", "createDate": "2024-07-26T00:00:00Z", "category": "AI Development Platform" },
+  { "title": "Devin", "url": "https://app.devin.ai/", "createDate": "2024-07-26T00:00:00Z", "category": "AI Software Engineer" },
+  { "title": "Zapier MCP", "url": "https://zapier.com/mcp", "createDate": "2024-07-26T00:00:00Z", "category": "AI Integration Platform" },
+  { "title": "LockedIn AI", "url": "https://www.lockedinai.com/", "createDate": "2024-07-26T00:00:00Z", "category": "AI Agent Platform" },
+  { "title": "Emergent", "url": "https://app.emergent.sh/", "createDate": "2024-07-26T00:00:00Z", "category": "AI Development Tool" },
+  { "title": "MindCraftor", "url": "https://mindcraftor.ai/", "createDate": "2024-07-26T00:00:00Z", "category": "AI Content Creation Tool" },
+  { "title": "DeepSite AI", "url": "https://deepsiteai.com/", "createDate": "2024-07-26T00:00:00Z", "category": "AI Website Builder" },
+  { "title": "AnythingLLM", "url": "https://anythingllm.com/", "createDate": "2024-07-26T00:00:00Z", "category": "AI Document Processing Tool" },
+  { "title": "Qodo", "url": "https://www.qodo.ai/", "createDate": "2024-07-26T00:00:00Z", "category": "AI Development Platform" },
+  { "title": "Tolans", "url": "https://www.tolans.com/", "createDate": "2024-07-26T00:00:00Z", "category": "AI Agent Platform" },
+  { "title": "Finch AI", "url": "https://finchai.com/", "createDate": "2024-07-26T00:00:00Z", "category": "AI Financial Tool" },
+  { "title": "Genesis AI", "url": "https://genesis-ai.company/", "createDate": "2024-07-26T00:00:00Z", "category": "AI Development Platform" },
+  { "title": "IntelBase", "url": "https://intelbase.is/", "createDate": "2024-07-26T00:00:00Z", "category": "AI Intelligence Platform" }
 ] 
