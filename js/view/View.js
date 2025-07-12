@@ -48,7 +48,8 @@ export class View {
         const dateStr = d.toLocaleDateString('en-US', {
           year: '2-digit',
           month: '2-digit',
-          day: '2-digit'
+          day: '2-digit',
+          timeZone: 'UTC'
         })
         if (!grouped[dateStr]) grouped[dateStr] = []
         grouped[dateStr].push(resource)
