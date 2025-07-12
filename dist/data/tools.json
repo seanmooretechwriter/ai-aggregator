@@ -25,10 +25,12 @@
   { "title": "Prompt Grader", "url": "https://www.grademyprompt.com/", "createDate": "2024-07-26T00:00:00Z", "category": "Prompt Engineering Tool" },
   { "title": "Qodo", "url": "https://www.qodo.ai/", "createDate": "2024-07-26T00:00:00Z", "category": "AI Development Platform" },
   { "title": "Replit", "url": "https://replit.com/", "createDate": "2024-07-26T12:04:00Z", "category": "Online IDE" },
+  { "title": "Rivet", "url": "https://www.rivetai.com/", "createDate": "2024-07-12T00:00:00Z", "category": "GUI LLM Workflow Builder" },
   { "title": "Rork", "url": "https://rork.com/", "createDate": "2024-07-26T00:00:00Z", "category": "AI App Builder" },
   { "title": "Sourcegraph Cody", "url": "https://sourcegraph.com/cody", "createDate": "2024-07-26T12:03:00Z", "category": "AI Coding Assistant" },
   { "title": "Tabnine", "url": "https://www.tabnine.com/", "createDate": "2024-07-26T12:01:00Z", "category": "AI Coding Assistant" },
   { "title": "Tolans", "url": "https://www.tolans.com/", "createDate": "2024-07-26T00:00:00Z", "category": "AI Agent Platform" },
+  { "title": "Vellum", "url": "https://www.vellum.ai/", "createDate": "2024-07-12T00:00:00Z", "category": "GUI LLM Workflow Builder" },
   { "title": "Warp", "url": "https://www.warp.dev/", "createDate": "2024-07-26T12:20:00Z", "category": "Agentic Development Environment" },
   { "title": "Windsurf (formerly Codeium)", "url": "https://windsurf.com/", "createDate": "2024-07-26T12:05:00Z", "category": "AI Code Editor" },
   { "title": "Zapier MCP", "url": "https://zapier.com/mcp", "createDate": "2024-07-26T00:00:00Z", "category": "AI Integration Platform" }

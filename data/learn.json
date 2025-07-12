@@ -2,6 +2,7 @@
   { "title": "A Developer's Guide to Building Scalable AI Workflows vs Agents", "url": "https://towardsdatascience.com/a-developers-guide-to-building-scalable-ai-workflows-vs-agents/", "createDate": "2024-07-01T00:00:00Z", "category": "Guide" },
   { "title": "Anthropic Academy", "url": "https://www.anthropic.com/learn", "createDate": "2024-07-11T00:00:00Z", "category": "Course" },
   { "title": "Building Effective Agents Cookbook", "url": "https://github.com/anthropics/anthropic-cookbook/tree/main/patterns/agents", "createDate": "2024-07-12T00:00:00Z", "category": "Guide" },
+  { "title": "Building Effective Agents", "url": "https://www.anthropic.com/engineering/building-effective-agents", "createDate": "2024-07-12T00:00:00Z", "category": "Guide" },
   { "title": "ChatGPT Prompt Engineering for Developers", "url": "https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/", "createDate": "2024-07-26T00:00:00Z", "category": "Course" },
   { "title": "Claude Code Best Practices", "url": "https://www.anthropic.com/engineering/claude-code-best-practices", "createDate": "2024-07-01T00:00:00Z", "category": "Best Practices" },
   { "title": "Desktop Extensions for Claude", "url": "https://www.anthropic.com/engineering/desktop-extensions", "createDate": "2024-07-01T00:00:00Z", "category": "Engineering" },
