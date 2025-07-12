@@ -41,38 +41,25 @@ export class View {
 
     let resourcesHtml = ''
     if (currentType === 'news') {
-      // Group news by date (MM/DD/YY)
-      const grouped = {}
-      resources.forEach(resource => {
-        const d = new Date(resource.createDate)
-        const dateStr = d.toLocaleDateString('en-US', {
-          year: '2-digit',
-          month: '2-digit',
-          day: '2-digit',
-          timeZone: 'UTC'
+      // Show date for each individual article
+      resourcesHtml = resources
+        .sort((a, b) => new Date(b.createDate) - new Date(a.createDate))
+        .map(resource => {
+          const d = new Date(resource.createDate)
+          const dateStr = d.toLocaleDateString('en-US', {
+            year: '2-digit',
+            month: '2-digit',
+            day: '2-digit',
+            timeZone: 'UTC'
+          })
+          return `
+            <li>
+              <a href="${resource.url}" target="_blank">${resource.title}</a>
+              <span>(${resource.category})</span>
+              <span style="color:#bdbdbd; font-size:0.9rem; font-style:italic; margin-left:8px;">${dateStr}</span>
+            </li>
+          `
         })
-        if (!grouped[dateStr]) grouped[dateStr] = []
-        grouped[dateStr].push(resource)
-      })
-      resourcesHtml = Object.entries(grouped)
-        .sort(
-          (a, b) => new Date(b[1][0].createDate) - new Date(a[1][0].createDate)
-        )
-        .map(
-          ([date, items]) => `
-          <li class="news-date-heading" style="margin-top:18px; margin-bottom:4px; color:#bdbdbd; font-size:0.98rem; font-style:italic; list-style:none;">${date}</li>
-          ${items
-            .map(
-              resource => `
-                <li>
-                  <a href="${resource.url}" target="_blank">${resource.title}</a>
-                  <span>(${resource.category})</span>
-                </li>
-              `
-            )
-            .join('')}
-        `
-        )
         .join('')
     } else {
       resourcesHtml = resources

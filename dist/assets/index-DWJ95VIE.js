@@ -5,7 +5,7 @@
           ${f.map(a=>`<option value="${a.key}"${a.key===i?" selected":""}>${a.label}</option>`).join("")}
         </select>
       </div>
-    `;let s="";if(i==="news"){const a={};o.forEach(r=>{const c=new Date(r.createDate).toLocaleDateString("en-US",{year:"2-digit",month:"2-digit",day:"2-digit"});a[c]||(a[c]=[]),a[c].push(r)}),s=Object.entries(a).sort((r,d)=>new Date(d[1][0].createDate)-new Date(r[1][0].createDate)).map(([r,d])=>`
+    `;let s="";if(i==="news"){const a={};o.forEach(r=>{const c=new Date(r.createDate).toLocaleDateString("en-US",{year:"2-digit",month:"2-digit",day:"2-digit",timeZone:"UTC"});a[c]||(a[c]=[]),a[c].push(r)}),s=Object.entries(a).sort((r,d)=>new Date(d[1][0].createDate)-new Date(r[1][0].createDate)).map(([r,d])=>`
           <li class="news-date-heading" style="margin-top:18px; margin-bottom:4px; color:#bdbdbd; font-size:0.98rem; font-style:italic; list-style:none;">${r}</li>
           ${d.map(c=>`
                 <li>
