@@ -7,6 +7,7 @@
   {"title": "Google Assistant", "vendor": "Google", "url": "https://assistant.google.com/"},
   {"title": "Grok", "vendor": "xAI", "url": "https://grok.com/"},
   {"title": "Kuki (Mitsuku)", "vendor": "Pandorabots", "url": "https://www.kuki.ai/"},
+  {"title": "Kimi", "vendor": "Moonshot AI", "url": "https://www.kimi.com/"},
   {"title": "Replika", "vendor": "Luka, Inc.", "url": "https://replika.com/"},
   {"title": "Siri", "vendor": "Apple", "url": "https://www.apple.com/siri/"},
   {"title": "Xiaoice", "vendor": "Microsoft (China)", "url": "https://www.microsoft.com/en-us/ai/ai-lab-xiaoice"}

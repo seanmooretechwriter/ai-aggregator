@@ -28,5 +28,95 @@
   { "title": "Productivity Gains from Using AI (Charted)", "url": "https://www.visualcapitalist.com/charted-productivity-gains-from-using-ai/", "createDate": "2025-06-25T00:00:00Z", "category": "Productivity" },
   { "title": "DocuSign Sends Legal Notice to Vibe Coder", "url": "https://analyticsindiamag.com/ai-news-updates/vibe-coder-gets-legal-notice-from-docusign/", "createDate": "2025-06-23T00:00:00Z", "category": "Legal" },
   { "title": "Sakana AI's DGM: Next-Gen Model", "url": "https://sakana.ai/dgm/", "createDate": "2025-05-30T00:00:00Z", "category": "Model Release" },
-  { "title": "Setting Up a New M4 Max MacBook Pro for AI Development", "url": "https://quincylabs.substack.com/p/setting-up-a-new-m4-max-macbook-pro", "createDate": "2025-03-19T00:00:00Z", "category": "Setup Guide" }
+  { "title": "Setting Up a New M4 Max MacBook Pro for AI Development", "url": "https://quincylabs.substack.com/p/setting-up-a-new-m4-max-macbook-pro", "createDate": "2025-03-19T00:00:00Z", "category": "Setup Guide" },
+  {
+    "title": "Upcoming Deprecations and Changes to Copilot Code Review",
+    "url": "https://github.blog/changelog/2025-07-18-upcoming-deprecations-and-changes-to-copilot-code-review/",
+    "date": "2025-07-18"
+  },
+  {
+    "title": "The Agentic AI Era at JetBrains is Here",
+    "url": "https://blog.jetbrains.com/junie/2025/07/the-agentic-ai-era-at-jetbrains-is-here/",
+    "date": "2025-07-17"
+  },
+  {
+    "title": "From Chaos to Clarity: Using GitHub Copilot Agents to Improve Developer Workflows",
+    "url": "https://github.blog/ai-and-ml/github-copilot/from-chaos-to-clarity-using-github-copilot-agents-to-improve-developer-workflows/",
+    "date": "2025-07-16"
+  },
+  {
+    "title": "Anthropic Tests API Playground and Claude Code Analytics in Workbench",
+    "url": "https://www.testingcatalog.com/anthropic-tests-api-playground-and-claude-code-analytics-in-workbench/",
+    "date": "2025-07-16"
+  },
+  {
+    "title": "Kiro: The New Agentic AI IDE from AWS",
+    "url": "https://dev.to/aws-builders/kiro-the-new-agentic-ai-ide-from-aws-5311",
+    "date": "2025-07-15"
+  },
+  {
+    "title": "Agentic AI is Quietly Replacing Developers",
+    "url": "https://thenewstack.io/agentic-ai-is-quietly-replacing-developers/",
+    "date": "2025-07-15"
+  },
+  {
+    "title": "Anthropic Economic Program",
+    "url": "https://www.infoq.com/news/2025/07/anthropic-economic-program/",
+    "date": "2025-07-15"
+  },
+  {
+    "title": "What Are the 7 Types of AI Agents?",
+    "url": "https://www.forbes.com/sites/johnwerner/2025/07/10/what-are-the-7-types-of-ai-agents/",
+    "date": "2025-07-10"
+  },
+  {
+    "title": "Hugging Face Just Launched a $299 Robot That Could Disrupt the Entire Robotics Industry",
+    "url": "https://venturebeat.com/ai/hugging-face-just-launched-a-299-robot-that-could-disrupt-the-entire-robotics-industry/",
+    "date": "2025-07-10"
+  },
+  {
+    "title": "AWS is Launching an AI Agent Marketplace Next Week with Anthropic as a Partner",
+    "url": "https://techcrunch.com/2025/07/10/aws-is-launching-an-ai-agent-marketplace-next-week-with-anthropic-as-a-partner/",
+    "date": "2025-07-10"
+  },
+  {
+    "title": "AI Hired, Fired, Promotion Managers",
+    "url": "https://www.cbsnews.com/amp/news/ai-hired-fired-promotion-managers/",
+    "date": "2025-07-10"
+  },
+  {
+    "title": "AI Slows Down Some Experienced Software Developers, Study Finds",
+    "url": "https://www.reuters.com/business/ai-slows-down-some-experienced-software-developers-study-finds-2025-07-10/",
+    "date": "2025-07-10"
+  },
+  {
+    "title": "How Deepfake AI Job Applicants Are Stealing Remote Work",
+    "url": "https://www.cnbc.com/amp/2025/07/11/how-deepfake-ai-job-applicants-are-stealing-remote-work.html",
+    "date": "2025-07-11"
+  },
+  {
+    "title": "Will LLMs and Vibe Coding Fuel a Developer Renaissance?",
+    "url": "https://thenewstack.io/will-llms-and-vibe-coding-fuel-a-developer-renaissance/",
+    "date": "2025-07-11"
+  },
+  {
+    "title": "Mark Cuban: I Use AI Daily for Monitoring Health, Writing Code, More",
+    "url": "https://www.cnbc.com/amp/2025/07/11/mark-cuban-i-use-ai-daily-for-monitoring-health-writing-code-more.html",
+    "date": "2025-07-11"
+  },
+  {
+    "title": "Amazon is Reportedly Going to Launch a Marketplace for AI Agents",
+    "url": "https://www.inc.com/ben-sherry/amazon-is-reportedly-going-to-launch-a-marketplace-for-ai-agents/91212604",
+    "date": "2025-07-11"
+  },
+  {
+    "title": "Anthropic is Bleeding Out",
+    "url": "https://www.wheresyoured.at/anthropic-is-bleeding-out/",
+    "date": "2025-07-11"
+  },
+  {
+    "title": "OpenAI’s Altman Says He’s No...",
+    "url": "https://finance.yahoo.com/news/openais-altman-says-hes-no-130143356.html",
+    "date": "2025-07-10"
+  }
 ] 

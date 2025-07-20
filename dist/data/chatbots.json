@@ -5,6 +5,7 @@
   {"title": "Copilot", "vendor": "Microsoft", "url": "https://copilot.microsoft.com/"},
   {"title": "Gemini", "vendor": "Google", "url": "https://gemini.google.com/"},
   {"title": "Google Assistant", "vendor": "Google", "url": "https://assistant.google.com/"},
+  {"title": "Grok", "vendor": "xAI", "url": "https://grok.com/"},
   {"title": "Kuki (Mitsuku)", "vendor": "Pandorabots", "url": "https://www.kuki.ai/"},
   {"title": "Replika", "vendor": "Luka, Inc.", "url": "https://replika.com/"},
   {"title": "Siri", "vendor": "Apple", "url": "https://www.apple.com/siri/"},
